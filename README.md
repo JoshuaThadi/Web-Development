@@ -34,9 +34,10 @@
 <div align="center">
     <h4>🌐 Proview Website Link:</h4>
 <a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW">
+    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
+<a href="https://webdev-masterjudah.netlify.app/" target="_blank">
+    <img width="173px" src="https://img.shields.io/badge/Github-WebDev-%23fd5c63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW">
 </a>
-
 </div>
 
 <h4 align="center">📍 Focusing on web development (Front-end Platform).</h4>
