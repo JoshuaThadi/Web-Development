@@ -1,7 +1,13 @@
 <!-- MasterHead -->
 <a href="https://JoshuaThadi.io">
-    <img src="https://github.com/JoshuaThadi/Proview/blob/main/Screenshot%202024-11-24%20220225.png" alt="MasterHead">
+   
 </a>
+
+<div align="center">
+    
+<img align="center" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="150px" />
+
+</div>
 
 <div align="left">
 <h1 align="center">Hi 👋, This is a basic Blog website</h1>
@@ -31,7 +37,6 @@ extra attention to featured content or information.</b></p>
 <br/>
 
 <div align="center">
-     <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" height="70" width="90" />
     <h3> * Bootstrap * </h3>
     <p> 🚀 Conducted the project with bootstrap 4.4v.</p>
 
