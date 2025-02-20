@@ -10,7 +10,7 @@
 </div>
 
 <div align="left">
-<h3 align="center"> Bootstrap Minimal looking website </h3>
+<h2 align="center">🌟 Bootstrap Minimal looking website </h2>
 
 <h4 align="center">💡 Just a plain project where you can explore courses.</h4>
 <br/>
