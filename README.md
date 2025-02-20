@@ -1,11 +1,11 @@
-<div align="center">
+<!--<div align="center">
   <a href="#">
     <img 
       width="100%" 
       src="https://capsule-render.vercel.app/api?type=waving&color=662d91&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
     />
   </a>
-  <br>
+  <br>-->
 
 
 
@@ -15,9 +15,8 @@
    
 </a>
 
-<div align="center">
-<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/Cornmanthe3rd-Metronome-Other-html-5.128.png" alt="html" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="125px" />    
-<img align="center" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="120px" />
+<div align="center">   
+<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/frontend-git-banner.png" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="100%" />
 </div>
 
 <div align="left">
@@ -56,12 +55,12 @@ extra attention to featured content or information.</p>
 
 
 
-<p align="center">
+<!--<p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=662d91&height=80&section=footer"
     width="100%" 
   />
-</p>
+</p>-->
 
 
 
