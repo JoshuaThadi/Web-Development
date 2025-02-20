@@ -10,9 +10,9 @@
 </div>
 
 <div align="left">
-<h1 align="center">Hi 👋, This is a basic Blog website</h1>
+<h3 align="center"> Bootstrap Minimal looking website </h3>
 
-<h3 align="center">💡 Just a plain project where you can explore courses.</h3>
+<h4 align="center">💡 Just a plain project where you can explore courses.</h4>
 <br/>
 
 <h3 align="center">🧲 Connect with me:</h3>
