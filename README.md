@@ -23,7 +23,7 @@
 </div>
 
 <div align="left">
-<h2 align="center">🌟 Bootstrap Minimal looking website </h2>
+<h2 align="center">Frontend Minimal looking website </h2>
 
 <h3 align="center">💡 Just a plain project where you can explore courses.</h3>
 <h4 align="center">🧲 Connect with me:</h4>
