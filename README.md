@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=662d91&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+
+
+
+
 <!-- MasterHead -->
 <a href="https://JoshuaThadi.io">
    
@@ -41,6 +53,15 @@ extra attention to featured content or information.</p>
 </a>
 </div>
 </div>
+
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=662d91&height=80&section=footer"
+    width="100%" 
+  />
+</p>
 
 
 
