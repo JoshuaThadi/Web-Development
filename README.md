@@ -18,7 +18,6 @@
 <div align="center">
 <img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/htmlicon.png" alt="html" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="90px" />    
 <img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/cssicon.jpg" alt="css" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="90px" />
-<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/javascript.webp" alt="js" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="90px" />
 <img align="center" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="120px" />
 </div>
 
