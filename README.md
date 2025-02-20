@@ -16,7 +16,7 @@
 </a>
 
 <div align="center">   
-<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/git-ban.png" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="100%" />
+<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/git-end.png" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="100%" />
 </div>
 
 <div align="left">
