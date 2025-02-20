@@ -23,12 +23,12 @@
 <h2 align="center">🌟Frontend Minimal looking website </h2>
 
 <h3 align="center">💡 Just a plain project where you can explore courses.</h3>
-<h4 align="center">🧲 Connect with me:</h4>
+<!--<h4 align="center">🧲 Connect with me:</h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshuathadi" height="30" width="40" />
     </a>
-</p>
+</p>-->
 
 <div align="center">
     <h4>🌐 Proview Website Link:</h4>
