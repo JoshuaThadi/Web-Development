@@ -31,7 +31,7 @@
 </p>-->
 
 <div align="center">
-    <h4>🌐 Proview Website Link:</h4>
+    <h4>🚀 Conducted the project with bootstrap.</h4>
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
@@ -44,8 +44,7 @@
 extra attention to featured content or information.</p>
 
 <div align="center">
-    <h4> * Bootstrap * </h4>
-    <p> 🚀 Conducted the project with bootstrap.</p>
+    <h4>🌐 Technologies</h4>
 
 <a href="https://getbootstrap.com" target="_blank">
     <img width="200px" src="https://img.shields.io/badge/Github-Bootstrap-%236E738D?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
