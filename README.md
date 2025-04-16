@@ -32,8 +32,6 @@
 
 <div align="center">
     <h4>🚀 Conducted the project with bootstrap.</h4>
-  <p align="center">This is a simple Blog page, a Blog about technology component for
-extra attention to featured content or information.</p>
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="182px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
@@ -44,6 +42,9 @@ extra attention to featured content or information.</p>
 </div>
 
 <h4 align="center">📍 Focusing on web development (Front-end Platform).</h4>
+<p align="center">
+  This repository is dedicated to Front-End Web Development, showcasing modern web design techniques and responsive UI components. It includes projects built with HTML, CSS, JavaScript, and popular frameworks. Whether you're a beginner or looking to sharpen your front-end skills, this collection provides practical examples and clean code. Explore the platform to learn, build, and grow as a web developer.
+</p>
 
 <div align="center">
     <h4>🌐 Technologies</h4>
