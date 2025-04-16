@@ -37,7 +37,7 @@
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
     <img width="173px" src="https://img.shields.io/badge/Github-WebDev-%23fd5c63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>  
 <a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
-    <img width="205px" src="https://img.shields.io/badge/Github%20MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp">
+    <img width="205px" src="https://img.shields.io/badge/Github-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp">
 </a>
 </div>
 
