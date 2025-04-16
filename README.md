@@ -22,7 +22,6 @@
 <div align="left">
 <h2 align="center">🌟Frontend Minimal looking website </h2>
 
-<h3 align="center">💡 Just a plain project where you can explore courses.</h3>
 <!--<h4 align="center">🧲 Connect with me:</h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
@@ -31,7 +30,7 @@
 </p>-->
 
 <div align="center">
-    <h4>🚀 Conducted the project with bootstrap.</h4>
+
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="182px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
