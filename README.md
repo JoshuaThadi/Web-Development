@@ -35,9 +35,11 @@
   <p align="center">This is a simple Blog page, a Blog about technology component for
 extra attention to featured content or information.</p>
 <a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
+    <img width="182px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
-    <img width="173px" src="https://img.shields.io/badge/Github-WebDev-%23fd5c63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW">
+    <img width="173px" src="https://img.shields.io/badge/Github-WebDev-%23fd5c63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>  
+<a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
+    <img width="205px" src="https://img.shields.io/badge/Github%20MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp">
 </a>
 </div>
 
