@@ -45,10 +45,9 @@ extra attention to featured content or information.</p>
 
 <div align="center">
     <h4>🌐 Technologies</h4>
+<img src="https://img.shields.io/badge/HTML-%23BF616A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
-<a href="https://getbootstrap.com" target="_blank">
-    <img width="200px" src="https://img.shields.io/badge/Github-Bootstrap-%236E738D?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</a>
+<img src="https://img.shields.io/badge/Bootstrap-%237D6E99?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 </div>
 
