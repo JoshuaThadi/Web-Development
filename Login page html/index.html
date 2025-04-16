@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <title>Document</title>
+    <style>
+        :root {
+            --bg-color-light: #ffffff;
+            --text-color-light: #000000;
+            --bg-color-dark: #121212;
+            --text-color-dark: #ffffff;
+        }
+
+        body {
+            background-color: var(--bg-color-light);
+            font-family: 'Poppins', sans-serif;
+            color: var(--text-color-light);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        body.dark-mode {
+            background-color: var(--bg-color-dark);
+            color: var(--text-color-dark);
+        }
+
+        .btn {
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .btn-violet {
+            background-color: blueviolet;
+            color: aliceblue;
+            text-decoration: none;
+        }
+
+        .btn-danger {
+            background-color: red;
+            color: aliceblue;
+            text-decoration: none;
+        }
+
+        .btn a {
+            color: inherit;
+            text-decoration: none;
+        }
+         /* Responsive icon image */
+         .responsive-icon {
+            width: 100%;
+            height: auto;
+            max-width: 100px; /* Adjust max-width based on your design needs */
+            max-height: 100px; /* Adjust max-height based on your design needs */
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .responsive-icon {
+                max-width: 80px;
+                max-height: 80px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .responsive-icon {
+                max-width: 60px;
+                max-height: 60px;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+        <button class="btn btn-bd-primary py-2" id="theme-toggle" aria-label="Toggle theme">
+            <i class="bx bx-moon" id="theme-icon"></i>
+        </button>
+    </div>
+
+    <div class="px-4 py-5 my-5 text-center">
+        <img class="responsive-icon d-block mx-auto mb-4" src="bootstrap-img.png">
+        <h1 class="display-5 fw-bold">Modal-PopUp / Responsive</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Can be displayed in All Devices</p>
+            <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                <button type="button" class="btn btn-violet btn-lg px-4 gap-3">
+                    <a href="Bootpop.html">Bootstrap Modal-PopUp</a>
+                </button>
+            </div>
+            <div>
+                <p>
+                    
+                </p>
+            </div>
+        </div>
+        <div class="overflow-hidden" style="max-height: 30vh;">
+            <div class="container px-5">
+                <img src="bootstrap-docs.png" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+            </div>
+        </div>
+    </div>
+
+    <div class="px-4 py-5 my-5 text-center">
+        <img class="responsive-icon  d-block mx-auto mb-4" src="html-img.png">
+        <h1 class="display-5 fw-bold">Modal-PopUp / Non-Responsive</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Can only be display in desktop application</p>
+            <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+            <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+                <button type="button" class="btn btn-danger btn-lg px-4">
+                    <a href="Htmpop.html">HTML Modal-PopUp</a>
+                </button>
+            </div>
+            <div>
+                <p>
+
+                </p>
+            </div>
+        </div>
+        <div class="overflow-hidden" style="max-height: 30vh;">
+            <div class="container px-5">
+                <img src="html-tutorial-beginners-header.webp" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy">
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript for Theme Toggle -->
+    <script>
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const body = document.body;
+
+        // Load saved theme from localStorage
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        setTheme(savedTheme);
+
+        themeToggleBtn.addEventListener('click', () => {
+            const currentTheme = body.classList.contains('dark-mode') ? 'dark' : 'light';
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            setTheme(newTheme);
+        });
+
+        function setTheme(theme) {
+            if (theme === 'dark') {
+                body.classList.add('dark-mode');
+                themeIcon.classList.replace('bx-moon', 'bx-sun');
+            } else {
+                body.classList.remove('dark-mode');
+                themeIcon.classList.replace('bx-sun', 'bx-moon');
+            }
+            localStorage.setItem('theme', theme);
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-NKwLUu2D8c+JHbHkIMvJ6UHF1O8ZgnMPzA95fXvZ1I9Ao9C05Q15bJFSqMeFsKsQ" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+</body>
+
+</html>
