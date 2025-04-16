@@ -32,6 +32,8 @@
 
 <div align="center">
     <h4>🚀 Conducted the project with bootstrap.</h4>
+  <p align="center">This is a simple Blog page, a Blog about technology component for
+extra attention to featured content or information.</p>
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="180px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
@@ -40,8 +42,6 @@
 </div>
 
 <h4 align="center">📍 Focusing on web development (Front-end Platform).</h4>
-<p align="center">This is a simple Blog page, a Blog about technology component for
-extra attention to featured content or information.</p>
 
 <div align="center">
     <h4>🌐 Technologies</h4>
