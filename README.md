@@ -36,7 +36,7 @@
 <a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
     <img width="215px" src="https://img.shields.io/badge/Github-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp"></a>
 <a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Html/Css-Youtube-%23EF0107?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
+     <img src="https://img.shields.io/badge/Html/Css-Curriculum-%23D43F51?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
   <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge">
    </a>
