@@ -1,0 +1,68 @@
+* {
+    font-family: Roboto;
+}
+
+p { /* appling in <p> rather than on the class everytime */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.youtube-icon{
+    margin-bottom: 0px; /* to remove the default pixels of margin */
+    width: 30px;
+}
+
+.video-title{
+    font-size: 20px;
+    font-weight: bold;
+    width: 400px; /* width of a video title container */
+    line-height: 26px; /* increases the line height not the letters of the line */
+    margin-bottom: 10px; /* to create a distance at the bottom between title and stats */
+}
+
+.video-stats{
+    font-size: 15px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 10px;
+}
+
+.video-author{
+    font-size: 15px;
+    color:rgb(96, 96, 96);
+    margin-bottom: 10px;
+}
+
+.video-description{
+    width: 300px;
+    font-size: 16px;
+    color: rgb(96, 96, 96);
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+
+.apple-icon{
+    width:35px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.apple-text{
+    font-size: 15px;
+    background-color: rgb(227, 65, 64);
+    padding: 20px;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    width:445px;
+}
+
+.spant{
+    margin-left: 2px;
+    color: white;
+    text-decoration: none;
+}
+
+.spant:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

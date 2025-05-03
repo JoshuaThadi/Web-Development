@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains:ital,wght@0,100;0,200;0,300;
+    0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;
+    1,900&display=swap" rel="stylesheet" />
+
+    <title>OTP generator</title>
+
+    <link rel="stylesheet" href="style.css" />
+    
+</head>
+
+<body>
+    <div class="container step1">
+        <h1>OTP verification</h1>
+        <br />
+        <h3>Enter your email address</h3>
+        <br />
+        <p><strong>You will recieve an email with one time password</strong></p>
+        <div class="form-group">
+            <input type="email" id="emailAddress" placeholder="Email address" onkeyup="validateEmail(this.value)"/>           
+        </div>
+
+        <button class="nextButton">Next &rarr;</button>
+    </div>
+
+    <div class="container step2">
+        <h1>OTP verification</h1>
+        <br />
+        <h3>Enter one-time password</h3>
+        <br/>
+        <p><strong>one time password has been send to <span id="verifyEmail"></span></strong></p>
+        <div class="otp-form">
+            <p>Enter 4 digit code we sent to ypur email address</p>
+            <div class="otp-group">
+                <input type="number" >
+                <input type="number" >
+                <input type="number" >
+                <input type="number" >
+            </div>
+            <p>
+                Not your email? / Didn't recieve the code?
+                <a href="javascript:void(0)" onclick="changeMyEmail()">Try Again</a>
+            </p>
+        </div>
+        <button class="verifyButton">Verify &rarr;</button>
+    </div>
+
+    <div class="container step3">
+        <h1>Congradulation</h1>
+        <br />
+        <p>Welcome <i class='fas fa-gifts' style='font-size:24px'></i> to Home Page</p>
+        <br />
+        <img src="success (1).png">
+        <h2>Thank You</h2>
+        <p><strong>one time password has been send to <span id="verifyEmail"></span></strong></p>
+        
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com/dist/email.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

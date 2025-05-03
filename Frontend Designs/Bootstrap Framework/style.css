@@ -1,0 +1,21 @@
+* {
+    font-family: "Ubuntu", serif;
+    font-weight: 800;
+}
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+  }
+  
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+  
+
+@media (min-width: 1024px){
+    .news-input {
+        width: 50%;
+      }
+}  

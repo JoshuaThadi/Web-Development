@@ -1,0 +1,138 @@
+* {
+    font-family: "JetBrains", monospace;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(95deg, #78d1f3, #78a1f3, #78d1f3);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background: #ffffff;
+    height: 450px;
+    width: 800px;
+    border-radius: 10px;
+    padding: 45px;
+    text-align: center;
+    animation: fadInShow 0.3s;
+}
+
+@keyframes fadInShow{
+    0%{
+        opacity:0;
+        transform: scale(0);
+    }
+    100%{
+        opacity:1;
+        transform: scale(1);
+    }
+}
+
+.form-group{
+    margin: 60px 0px;
+    text-align: start;
+}
+
+.form-group input{
+    height: 50px;
+    width: 100%;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    outline: none;
+    border: 1px transparent;
+}
+
+.form-group::placeholder{
+    align-items: center;
+}
+
+button{
+    width: 100%;
+    padding:0px;
+    height: 45px;
+    cursor: pointer;
+    font-size: 16px;
+    background: linear-gradient(95deg, #78d1f3, #78a1f3, #78d1f3);
+    border-radius: 30px;
+    border: none;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+img{   
+    height: 100px;
+    margin: 10px;
+}
+
+.otp-form {
+    display: block;
+    margin: 20px 0;
+}
+
+.otp-form p {
+    margin: 20px;
+    color: green;
+}
+
+.otp-group {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.otp-group input {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    font-size: 25px;
+    text-align: center;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #a3a3a3;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+    margin: 0px;
+}
+
+img{
+    height: 150px;
+    margin: 15px;
+}
+
+button.disable {
+    opacity: 0.6;
+    pointer-events: none;
+    user-select: none;
+}
+
+.error-shake{
+    animation: shake 0.2s ease-in-out 0s 2;
+}
+
+@keyframes shake {
+    0%{
+        margin-left:0rem;
+    }
+    25%{
+        margin-left:0.5rem;
+    }
+    75%{
+        margin-left:0.5rem;
+    }
+    100%{
+        margin-left:0rem;
+    }
+}

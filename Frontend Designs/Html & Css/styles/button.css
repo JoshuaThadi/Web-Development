@@ -1,0 +1,76 @@
+* {
+    font-family: "firacode", monospace;
+}
+
+.subscribe-button{
+    background-color: rgb(186, 1, 1);
+    color: white;
+    border: none; /* to remove the border */
+    font-size: 20px;
+    /*height: 40px;
+    width: 150px;*/
+    padding: 10px; /* Make the button responsive for inside text that width/height cannot */
+    border-radius: 3px; /* round the corners */
+    cursor: pointer; /* convert the cursor to handy pointer */
+    margin-right: 10px; /* Add space to the right */
+    transition: opacity 0.2s;
+    vertical-align: top; /* puts the button at the top */
+}
+
+.subscribe-button:hover{
+    opacity: 0.7; /* dims the color <1> darken the color */
+}
+
+.subscribe-button:active{
+    opacity: 3;
+}
+
+.join-button{
+    font-size: 20px;
+    color: rgb(56, 121, 186);
+    border-color: rgb(45, 120, 225);
+    padding-top: 9px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 3px;
+    border-style: solid; /* to make the border style color solid */
+    border-width: 2px; /* increase the border size */
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 1s, color 1s;
+    vertical-align: top;
+}
+
+.join-button:hover{
+    background-color: rgb(42, 99, 190);
+    color: white;
+}
+
+.join-button:active{
+    opacity: 0.5;
+}
+
+.tweet-button{
+    background-color: rgb(38, 122, 195);
+    font-size: 20px;
+    border: none;
+    border-radius: 25px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: box-shadow 1s;
+    vertical-align: top;
+}
+
+.tweet-button:hover{
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+}
+
+.tweet-button:active{
+    opacity: 0.5;
+}
