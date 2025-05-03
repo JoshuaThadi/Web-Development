@@ -46,6 +46,15 @@
 <p align="center">
   This repository is dedicated to Front-End Web Development, showcasing modern web design techniques and responsive UI components. It includes projects built with HTML, CSS, JavaScript, and popular frameworks. Whether you're a beginner or looking to sharpen your front-end skills, this collection provides practical examples and clean code. Explore the platform to learn, build, and grow as a web developer.
 </p>
+<p align="left">
+  <strong>It involves three main components:</strong>
+  <ol>
+    <li><strong>Frontend Development</strong> – Building the visual and interactive part of a website using HTML, CSS, and JavaScript.</li>
+    <li><strong>Backend Development</strong> – Creating the server-side logic, databases, and APIs using languages like Python, PHP, Node.js, or .NET.</li>
+    <li><strong>Full-Stack Development</strong> – Combining both frontend and backend development skills.</li>
+  </ol>
+</p>
+
 
 <div align="center">
     <h4>🌐 Technologies</h4>
