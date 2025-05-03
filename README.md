@@ -34,8 +34,12 @@
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="182px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
 <a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
-    <img width="215px" src="https://img.shields.io/badge/Github-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp">
-</a>
+    <img width="215px" src="https://img.shields.io/badge/Github-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp"></a>
+<a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Html/Css-Youtube-%23EF0107?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
+  <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge">
+   </a>
 </div>
 
 <h4 align="center">📍 Focusing on web development (Front-end Platform).</h4>
@@ -45,9 +49,13 @@
 
 <div align="center">
     <h4>🌐 Technologies</h4>
-<img src="https://img.shields.io/badge/HTML-%23BF616A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,dotnet" /><br>
+</div>
+<!--<img src="https://img.shields.io/badge/HTML-%23BF616A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
 <img src="https://img.shields.io/badge/Bootstrap-%237D6E99?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+-->
 
 
 
