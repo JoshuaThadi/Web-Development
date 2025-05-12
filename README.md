@@ -119,7 +119,7 @@ The WebDev project demonstrates how I’ve used Bootstrap’s grid system, compo
 Coffy is a sleek and interactive 3D model showcase built using Spline, designed to present my creative work in a visually immersive way. It blends elegant UI with real-time 3D rendering to highlight my design skills and technical ability. Whether you're browsing on desktop or mobile, Coffy offers a smooth, animated experience to explore my models and projects.
 </p>
 
-<a href="#" target="_blank">
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/3D%20website" target="_blank">
   <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
 <a href="https://coffy-3d.netlify.app/" target="_blank">
   <img width="165px" src="https://img.shields.io/badge/Netlify-COFFY-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
