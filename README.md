@@ -20,7 +20,7 @@
 </div>
 
 <div align="left">
-<h2 align="center">🌟Frontend Minimal looking website </h2>
+<h2 align="center">🌟 Web Development </h2>
 
 <!--<h4 align="center">🧲 Connect with me:</h4>
 <p align="center">
@@ -29,28 +29,18 @@
     </a>
 </p>-->
 
-<div align="center">
 
-<a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="182px" src="https://img.shields.io/badge/Github-Proview-%235E81AC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="PROVIEW"></a>
-<a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
-    <img width="215px" src="https://img.shields.io/badge/Github-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp"></a>
-<a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Html/Css-Curriculum-%23D43F51?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
-  <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge">
-   </a>
-</div>
 
-<h4 align="center">📍 Focusing on web development (Front-end Platform).</h4>
+
+<h4 align="center">📍 Focusing on web development).</h4>
 <p align="center">
   This repository is dedicated to Front-End Web Development, showcasing modern web design techniques and responsive UI components. It includes projects built with HTML, CSS, JavaScript, and popular frameworks. Whether you're a beginner or looking to sharpen your front-end skills, this collection provides practical examples and clean code. Explore the platform to learn, build, and grow as a web developer.
 </p>
 <p align="left">
   <strong>It involves three main components:</strong>
   <ol>
-    <li><strong>Frontend Development</strong> – Building the visual and interactive part of a website using HTML, CSS, and JavaScript.</li>
-    <li><strong>Backend Development</strong> – Creating the server-side logic, databases, and APIs using languages like Python, PHP, Node.js, or .NET.</li>
+    <li><strong>Frontend Development</strong> – Building the visual and interactive part of a website using HTML, CSS, Bootstrap, Three.js, react.js, next.js and JavaScript.</li>
+    <li><strong>Backend Development</strong> – Creating the server-side logic, databases, and APIs using languages like Python, Node.js, or express.js.</li>
     <li><strong>Full-Stack Development</strong> – Combining both frontend and backend development skills.</li>
   </ol>
 </p>
@@ -59,14 +49,72 @@
 <div align="center">
     <h4>🌐 Technologies</h4>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,express" /><br>
-     <img src="https://skillicons.dev/icons?i=nodejs,react,next,mongodb,tailwind,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,express,nodejs,react,next,mongodb,tailwind,threejs" /><br>
 </div>
 <!--<img src="https://img.shields.io/badge/HTML-%23BF616A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
 <img src="https://img.shields.io/badge/Bootstrap-%237D6E99?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 -->
 
+---
+
+<div align="left">
+<p>
+Proview Blog is a Information Technology blog that shares insights, tutorials, and updates on the latest in tech, development, and digital trends. 
+Whether you're a student, developer, or tech enthusiast, you'll find curated content ranging from programming guides and software reviews to Game development and cybersecurity tips.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Proview" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://proviewblog.netlify.app/" target="_blank">
+    <img width="240px" src="https://img.shields.io/badge/Bootstrap_v4.2-Proview-%235E81AC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="PROVIEW"></a>
+
+
+<p>
+The project includes a fully responsive modal popup for the signup page, which adjusts seamlessly for both mobile and desktop screens. 
+The signup form is contained within a modal that appears at the center of the screen, ensuring an elegant and user-friendly experience across devices.
+</p>
+
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Login%20page%20html" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
+    <img width="210px" src="https://img.shields.io/badge/Html-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp"></a>
+
+
+<p>
+This repository showcases my journey of learning HTML and CSS through hands-on practice. The Curriculum Website is a collection of all the essential concepts I’ve learned — from building responsive layouts to styling interactive components. Each section reflects the practical skills I've gained while exploring web design fundamentals.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Html%20%26%20Css" target="_blank">
+  <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
+     <img width="227px" src="https://img.shields.io/badge/Html/Css-Curriculum-%23D43F51?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
+
+
+<p>
+This repository contains my practical work with Bootstrap, focusing on modern, responsive web development.
+The WebDev project demonstrates how I’ve used Bootstrap’s grid system, components, and utilities to build sleek, user-friendly interfaces.
+</p>
+
+  <a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Bootstrap%20Framework" target="_blank">
+  <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+  <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
+     <img width="203px" src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge"></a>
+
+<p>
+Coffy is a sleek and interactive 3D model showcase built using Spline, designed to present my creative work in a visually immersive way. It blends elegant UI with real-time 3D rendering to highlight my design skills and technical ability. Whether you're browsing on desktop or mobile, Coffy offers a smooth, animated experience to explore my models and projects.
+</p>
+
+<a href="#" target="_blank">
+  <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://coffy-3d.netlify.app/" target="_blank">
+  <img width="165px" src="https://img.shields.io/badge/Netlify-COFFY-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
+
+     
+</div>
+</div>
 
 
 ---
