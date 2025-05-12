@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>3D website</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+  <link rel="icon" href="https://app.netlify.com/favicon.ico" type="image/svg+xml" />
+  <link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+
+  <img class="image_gradient" src="images/GRADIENT_SHAD.png" alt="gradient" />
+  <div class="layer-blur"></div>
+
+  <div class="container">
+    <header>
+      <h1 class="logo">COffY</h1>
+
+      <nav>
+        <a href="#">Noto</a>
+        <a href="#">Icons</a>
+        <a href="#">Knowledge</a>
+        <a href="#">FAQ</a>
+      </nav>
+      <button class="btn-signing">SignUp</button>
+    </header>
+
+    <main>
+      <div class="content">
+        <div class="tag-box">
+          <div class="tag">Introducing &wedbar;</div>
+        </div>
+
+        <h1>Coffee For<br />DEVELOPERS</h1>
+
+        <p class="description">
+          Explore a world of stunning 3D models with interactive visuals and immersive experiences.
+        </p>
+
+        <div class="buttons">
+          <a href="#" class="btn-get-started">Documentation &gt;</a>
+          <a href="#" class="btn-signing-main">Get Started &gt;</a>
+        </div>
+
+          <!-- Social Media Icons -->
+        <div class="social-icons">
+          <a href="https://www.youtube.com" target="_blank" class="social-icon youtube"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.linkedin.com/in/joshuathadi/" target="_blank" class="social-icon linkedin"><i class="fab fa-linkedin"></i></a>
+          <a href="https://github.com/JoshuaThadi" target="_blank" class="social-icon github"><i class="fab fa-github"></i></a>
+          <a href="mailto:your-email@gmail.com" class="social-icon gmail"><i class="fas fa-envelope"></i></a>
+        </div>
+
+      </div>
+
+    </main>
+
+    <spline-viewer class="spline-3d" url="https://prod.spline.design/5QWxf5dQnVRaKyvk/scene.splinecode"></spline-viewer>
+
+  </div>
+
+  <script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.92/build/spline-viewer.js"></script>
+
+  
+</body>
+</html>
