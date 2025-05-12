@@ -59,6 +59,8 @@
 ---
 
 <div align="left">
+<img align="center" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
+
 <p>
 Proview Blog is a Information Technology blog that shares insights, tutorials, and updates on the latest in tech, development, and digital trends. 
 Whether you're a student, developer, or tech enthusiast, you'll find curated content ranging from programming guides and software reviews to Game development and cybersecurity tips.
@@ -69,7 +71,9 @@ Whether you're a student, developer, or tech enthusiast, you'll find curated con
 <a href="https://proviewblog.netlify.app/" target="_blank">
     <img width="240px" src="https://img.shields.io/badge/Bootstrap_v4.2-Proview-%235E81AC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="PROVIEW"></a>
 
+---
 
+<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222809.png" alt="Coffy 3D Preview 2" width="100%" />
 <p>
 The project includes a fully responsive modal popup for the signup page, which adjusts seamlessly for both mobile and desktop screens. 
 The signup form is contained within a modal that appears at the center of the screen, ensuring an elegant and user-friendly experience across devices.
@@ -81,17 +85,23 @@ The signup form is contained within a modal that appears at the center of the sc
 <a align="center" href="https://majesticmodal.netlify.app/" target="_blank">
     <img width="210px" src="https://img.shields.io/badge/Html-MODAL_POPUP-%236E738D?style=for-the-badge&logo=html5&logoColor=white" alt="GitHub Modal-PopUp"></a>
 
+---
 
+ <img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222828.png" alt="Coffy 3D Preview 3" width="100%" />
 <p>
 This repository showcases my journey of learning HTML and CSS through hands-on practice. The Curriculum Website is a collection of all the essential concepts I’ve learned — from building responsive layouts to styling interactive components. Each section reflects the practical skills I've gained while exploring web design fundamentals.
 </p>
+
 
 <a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Html%20%26%20Css" target="_blank">
   <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
 <a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
      <img width="227px" src="https://img.shields.io/badge/Html/Css-Curriculum-%23D43F51?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
 
+---
 
+
+<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222856.png" alt="Coffy 3D Preview 4" width="100%" />
 <p>
 This repository contains my practical work with Bootstrap, focusing on modern, responsive web development.
 The WebDev project demonstrates how I’ve used Bootstrap’s grid system, components, and utilities to build sleek, user-friendly interfaces.
@@ -102,6 +112,9 @@ The WebDev project demonstrates how I’ve used Bootstrap’s grid system, compo
   <a href="https://webdev-masterjudah.netlify.app/" target="_blank">
      <img width="203px" src="https://img.shields.io/badge/Bootstrap-WebDev-%23007FFF?style=for-the-badge&logo=bootstrap&logoColor=%23ffffff" alt="GitHub Badge"></a>
 
+---
+
+<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222925.png" alt="Coffy 3D Preview 5" width="100%" />
 <p>
 Coffy is a sleek and interactive 3D model showcase built using Spline, designed to present my creative work in a visually immersive way. It blends elegant UI with real-time 3D rendering to highlight my design skills and technical ability. Whether you're browsing on desktop or mobile, Coffy offers a smooth, animated experience to explore my models and projects.
 </p>
