@@ -69,6 +69,8 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
   <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
 <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-Bashfolio-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Bashfolio on Netlify"></a>
+
+
 ---
   
 <img align="center" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
