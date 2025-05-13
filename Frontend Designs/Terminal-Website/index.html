@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MasterJudah | Terminal-Website</title>
+    <link rel="icon" href="https://app.netlify.com/favicon.ico" type="image/svg+xml" />
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+    <style>
+        #liner::before {
+            color: #f9b17a;
+            content: "🗲@Browsercom$~SYSTEM~$MasterJudah⚚:~➤ ";
+        }
+    </style>
+</head>
+<body>
+    <div id="terminal">
+        <a id="before"></a>
+    </div>
+    <div id="command" onclick="document.getElementById('texter').focus();">
+        <textarea
+            type="text"
+            id="texter"
+            onkeyup="typeIt(this, event)"
+            onkeydown="typeIt(this, event); moveIt(this.value.length, event)"
+            onkeypress="typeIt(this, event);"
+            autofocus
+        ></textarea>
+        <div id="liner">
+            <span id="typer"></span><b class="cursor" id="cursor" style="left: 0px"></b>
+        </div>
+    </div>
+
+    <script src="caret.js"></script>
+    <script src="command.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
