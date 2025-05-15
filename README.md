@@ -32,7 +32,7 @@
 
 
 
-<h4 align="center">📍 Focusing on web development).</h4>
+<h4 align="center">📍 Focusing on web development.</h4>
 <p align="center">
   This repository is dedicated to Front-End Web Development, showcasing modern web design techniques and responsive UI components. It includes projects built with HTML, CSS, JavaScript, and popular frameworks. Whether you're a beginner or looking to sharpen your front-end skills, this collection provides practical examples and clean code. Explore the platform to learn, build, and grow as a web developer.
 </p>
@@ -76,8 +76,7 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 <img align="center" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
 
 <p>
-Proview Blog is a Information Technology blog that shares insights, tutorials, and updates on the latest in tech, development, and digital trends. 
-Whether you're a student, developer, or tech enthusiast, you'll find curated content ranging from programming guides and software reviews to Game development and cybersecurity tips.
+Proview Blog is a simple, old-school Information Technology blog built with basic Bootstrap. While its design may feel dated, it still offers useful insights, tutorials, and updates on tech, software development, and digital trends.
 </p>
 
 <a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Proview" target="_blank">
@@ -89,8 +88,8 @@ Whether you're a student, developer, or tech enthusiast, you'll find curated con
 
 <img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222809.png" alt="Coffy 3D Preview 2" width="100%" />
 <p>
-The project includes a fully responsive modal popup for the signup page, which adjusts seamlessly for both mobile and desktop screens. 
-The signup form is contained within a modal that appears at the center of the screen, ensuring an elegant and user-friendly experience across devices.
+The project, built using HTML, CSS, Bootstrap, and JavaScript, includes both fully responsive and non-responsive modal popups for the signup page, 
+adjusting seamlessly for mobile and desktop screens. The signup form is contained within a centrally positioned modal, providing an elegant and user-friendly experience across devices.
 </p>
 
 
@@ -130,7 +129,7 @@ The WebDev project demonstrates how I’ve used Bootstrap’s grid system, compo
 
 <img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222925.png" alt="Coffy 3D Preview 5" width="100%" />
 <p>
-Coffy is a sleek and interactive 3D model showcase built using Spline, designed to present my creative work in a visually immersive way. It blends elegant UI with real-time 3D rendering to highlight my design skills and technical ability. Whether you're browsing on desktop or mobile, Coffy offers a smooth, animated experience to explore my models and projects.
+Coffy is a sleek and interactive 3D model showcase built with HTML and CSS, featuring a 3D model imported from Spline. It presents my creative work in a visually immersive way, blending elegant UI with real-time 3D rendering to highlight my design skills and technical ability. 
 </p>
 
 <a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/3D%20website" target="_blank">
