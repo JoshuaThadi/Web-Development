@@ -33,7 +33,14 @@
 
 
 <h4 align="center">📍 Focusing on web development.</h4>
-<p align="center">
+
+<div align="center">
+<a href="https://github.com/JoshuaThadi/Web-Development/blob/main/web-dev-roadmap.md">
+  <img  align="center"  src="https://img.shields.io/badge/Web%20Dev%20Roadmap-grey?style=for-the-badge&logo=github" alt="Web Dev Roadmap">
+</a>
+</div>
+
+<p align="left">
   This repository is dedicated to Front-End Web Development, showcasing modern web design techniques and responsive UI components. It includes projects built with HTML, CSS, JavaScript, and popular frameworks. Whether you're a beginner or looking to sharpen your front-end skills, this collection provides practical examples and clean code. Explore the platform to learn, build, and grow as a web developer.
 </p>
 <p align="left">
