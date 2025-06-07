@@ -67,6 +67,22 @@
 
 ---
 
+<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/yeho.net.png">
+
+<div align="left">
+  
+This .NET Core MVC full-stack application is a minimalistic, modern website integrated with a robust Customer Management System. Built using HTML, CSS, and MVC architecture, it ensures clean UI, efficient performance, and easy customer data handling. Ideal for managing clients in a sleek, responsive web environment.
+
+<a href="https://github.com/JoshuaThadi/Microsoft.Net" target="_blank">
+  <img src="https://img.shields.io/badge/repository-grey?style=for-the-badge&logo=github&logoColor=white" alt="Repository Badge"></a>
+
+<a href="https://yehonet.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/netlify-YehoNet-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"></a>
+
+</div>
+
+---
+
 <div align="left">
 
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/Frontend%20Designs/Screenshot%202025-05-13%20223428.png" alt="masterjudah-bashfolio" />
