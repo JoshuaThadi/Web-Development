@@ -20,14 +20,14 @@
 </div>
 
 <div align="left">
-<h2 align="center">🌟 Web Development 
+<h3 align="center">🌟 Web Development 
 <div align="center">
 <a href="https://github.com/JoshuaThadi/Web-Development/blob/main/web-dev-roadmap.md">
   <img  align="center"  src="https://img.shields.io/badge/Web%20Dev%20Roadmap-grey?style=for-the-badge&logo=github" alt="Web Dev Roadmap">
 </a><br>
 </div>
-</h2>
-
+</h3>
+<br>
 
 <!--<h4 align="center">🧲 Connect with me:</h4>
 <p align="center">
@@ -42,7 +42,7 @@
 
 
 <p align="left">
- Web development is the process of building and maintaining websites or web applications that run on the internet. It involves everything from creating simple static web pages to complex dynamic web applications, e-commerce platforms, and social networking services.
+Web development is the process of building and maintaining websites or web applications that run on the internet. It involves everything from creating simple static web pages to complex dynamic web applications, e-commerce platforms, and social networking services.
 </p>
 <p align="left">
   <strong>It involves three main components:</strong>
