@@ -42,7 +42,9 @@
 
 
 <p align="left">
-Web development is the process of building and maintaining websites or web applications that run on the internet. It involves everything from creating simple static web pages to complex dynamic web applications, e-commerce platforms, and social networking services.
+  
+>Web development is the process of building and maintaining websites or web applications that run on the internet. It involves everything from creating simple static web pages to complex dynamic web applications, e-commerce platforms, and social networking services.
+
 </p>
 <p align="left">
   <strong>It involves three main components:</strong>
