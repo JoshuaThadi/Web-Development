@@ -60,7 +60,7 @@
     <h4>🌐 Technologies</h4>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma,express" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,next,mongodb,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,next,typescript,tailwind,threejs" />
 </div>
 <!--<img src="https://img.shields.io/badge/HTML-%23BF616A?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 
