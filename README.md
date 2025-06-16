@@ -187,7 +187,9 @@ Coffy is a sleek and interactive 3D model showcase built with HTML and CSS, feat
 
 ---
 
+<div align="center">
 ⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+</div>
 
 </div>
 </div>
