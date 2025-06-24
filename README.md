@@ -105,9 +105,8 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 
 This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers. 
 
-
-<a href="https://github.com/JoshuaThadi/Artificial-Intelligence" target="_blank">
-  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-DeepSeek%20Bot-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="DeepSeek Bot GitHub Badge"></a>
 
 <a href="https://deepseek-bot.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-DeepSeek%20Bot-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="DeepSeek Bot Badge"></a>
