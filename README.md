@@ -16,7 +16,7 @@
 </a>
 
 <div align="center">   
-<img align="center" src="https://github.com/JoshuaThadi/Frontend-Design/blob/main/git-end.png" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="100%" />
+<img align="center" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/git-end.png" alt="Bootstrap" style="background-color: #563d7c; border-radius: 5px; padding: 5px;" width="100%" />
 </div>
 
 <div align="left">
@@ -87,7 +87,7 @@ This .NET Core MVC full-stack application is a minimalistic, modern website inte
 
 <div align="left">
 
-<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/Frontend%20Designs/Screenshot%202025-05-13%20223428.png" alt="masterjudah-bashfolio" />
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-13%20223428.png" alt="masterjudah-bashfolio" />
 <p>
 A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics the look and feel of a real command-line interface, offering an interactive and responsive user experience. Perfect for portfolios, easter eggs, or fun web experiments. Fully customizable and lightweight.
 </p>
@@ -114,7 +114,7 @@ This mini project is a simple web-based chatbot interface that utilizes an exter
 
 ---
   
-<img align="center" width="100%" src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
 
 <p>
 Proview Blog is a simple, old-school Information Technology blog built with basic Bootstrap. While its design may feel dated, it still offers useful insights, tutorials, and updates on tech, software development, and digital trends.
@@ -127,7 +127,7 @@ Proview Blog is a simple, old-school Information Technology blog built with basi
 
 ---
 
-<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222809.png" alt="Coffy 3D Preview 2" width="100%" />
+<img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222809.png" alt="Coffy 3D Preview 2" width="100%" />
 <p>
 The project, built using HTML, CSS, Bootstrap, and JavaScript, includes both fully responsive and non-responsive modal popups for the signup page, 
 adjusting seamlessly for mobile and desktop screens. The signup form is contained within a centrally positioned modal, providing an elegant and user-friendly experience across devices.
@@ -141,7 +141,7 @@ adjusting seamlessly for mobile and desktop screens. The signup form is containe
 
 ---
 
- <img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222828.png" alt="Coffy 3D Preview 3" width="100%" />
+ <img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222828.png" alt="Coffy 3D Preview 3" width="100%" />
 <p>
 This repository showcases my journey of learning HTML and CSS through hands-on practice. The Curriculum Website is a collection of all the essential concepts I’ve learned — from building responsive layouts to styling interactive components. Each section reflects the practical skills I've gained while exploring web design fundamentals.
 </p>
@@ -155,7 +155,7 @@ This repository showcases my journey of learning HTML and CSS through hands-on p
 ---
 
 
-<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222856.png" alt="Coffy 3D Preview 4" width="100%" />
+<img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222856.png" alt="Coffy 3D Preview 4" width="100%" />
 <p>
 This repository contains my practical work with Bootstrap, focusing on modern, responsive web development.
 The WebDev project demonstrates how I’ve used Bootstrap’s grid system, components, and utilities to build sleek, user-friendly interfaces.
@@ -168,7 +168,7 @@ The WebDev project demonstrates how I’ve used Bootstrap’s grid system, compo
 
 ---
 
-<img src="https://raw.githubusercontent.com/JoshuaThadi/Web-Development/main/Frontend%20Designs/Screenshot%202025-05-12%20222925.png" alt="Coffy 3D Preview 5" width="100%" />
+<img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222925.png" alt="Coffy 3D Preview 5" width="100%" />
 <p>
 Coffy is a sleek and interactive 3D model showcase built with HTML and CSS, featuring a 3D model imported from Spline. It presents my creative work in a visually immersive way, blending elegant UI with real-time 3D rendering to highlight my design skills and technical ability. 
 </p>
