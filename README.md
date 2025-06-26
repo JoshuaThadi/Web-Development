@@ -100,7 +100,7 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/raw/main/Artifical%20Inteligence%20Projects/deepseek-botimg.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/raw/main/assets/deepseek-botimg.png">
 
 
 This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers. 
