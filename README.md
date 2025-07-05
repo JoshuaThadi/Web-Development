@@ -69,7 +69,7 @@
 
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/blob/main/yeho.net.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/raw/main/assests/yeho.net.png">
 
 <div align="left">
   
@@ -103,7 +103,11 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 <img width="100%" src="https://github.com/JoshuaThadi/Artificial-Intelligence/raw/main/assets/deepseek-botimg.png">
 
 
-This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers. 
+This mini project is a simple web-based chatbot interface that utilizes an external API to generate intelligent responses based on user input. The project is built using HTML, CSS, and JavaScript, allowing users to enter a prompt or question and receive real-time answers.
+
+⚠️ **Note:** If the chatbot is not responding, the API key might be expired or invalid.
+
+
 
 <a href="https://github.com/JoshuaThadi/Artificial-Intelligence/tree/main/Artifical%20Inteligence%20Projects/AI%20ChatBot/DeepSeek%20Bot" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-DeepSeek%20Bot-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="DeepSeek Bot GitHub Badge"></a>
