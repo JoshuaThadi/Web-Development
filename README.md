@@ -104,7 +104,7 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 
 Alchemy AI is a powerful and interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
 
-⚠️ **Note:** If the chatbot is not responding, the API key might be expired or invalid.
+⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
 
 <a href="https://alchemy-ai-v1.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Netlify-Alchemy_AI-555555?style=for-the-badge&logo=netlify&logoColor=white" alt="Alchemy AI Platform"></a>
