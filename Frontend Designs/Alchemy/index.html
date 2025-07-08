@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alchemy-A1</title>
+
+    <!--links of google fonts and icons-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <!--App Header-->
+        <header class="app-header">
+            <h1 class="heading">Hello, Developers</h1>
+            <h2 class="sub-heading">How can I Assist you today?</h2>
+        </header>
+
+        <!--Suggestions List-->
+        <ul class="suggestions">
+            <li class="suggestions-item">
+                <p class="text">Design a home office setup for remote work under $500.</p>
+                <span class="material-symbols-rounded">draw</span>
+            </li>
+            <li class="suggestions-item">
+                <p class="text">how can i level up my web development expertise in 2025</p>
+                <span class="material-symbols-rounded">lightbulb</span>
+            </li>
+            <li class="suggestions-item">
+                <p class="text">Suggest some useful tools for debugging javascript code.</p>
+                <span class="material-symbols-rounded">explore</span>
+            </li>
+            <li class="suggestions-item">
+                <p class="text">Create a reactjs component for a simple to do list.</p>
+                <span class="material-symbols-rounded">code_blocks</span>
+            </li>
+        </ul>
+
+        <!--Chats Container-->
+        <div class="chats-container">
+            <!-- <div class="message user-message">
+                <p class="message-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio doloribus similique nam iste ullam quo harum tempore distinctio aliquam, numquam sit, rerum earum voluptas praesentium mollitia consectetur reiciendis vel architecto.</p>
+            </div>
+            <div class="message bot-message">
+                <img src="images/alchemy2.png" class="avatar">
+                <p class="message-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio doloribus similique nam iste ullam quo harum tempore distinctio aliquam, numquam sit, rerum earum voluptas praesentium mollitia consectetur reiciendis vel architecto.</p>
+            </div> -->
+        </div>
+
+        <!--Prompt Container-->
+        <div class="prompt-container">
+            <div class="prompt-wrapper">
+                <form action="#" class="prompt-form">
+                    <input type="text" placeholder="Ask Alchemy" class="prompt-input" required>
+
+                    <div class="prompt-actions">
+                        <!--File upload wrapper-->
+                        <div class="file-upload-wrapper">
+                            <img src="#" class="file-preview">
+                            <input type="file" accept="image/*, .pdf, .txt, .csv" id="file-input" hidden>
+                            <button type="button" class="file-icon material-symbols-rounded">description</button>
+                            <button id="add-file-btn" type="button" class="material-symbols-rounded">attach_file</button>
+                            <button id="cancel-file-btn" type="button" class="material-symbols-rounded">close</button>
+                        </div>
+                        <button type="button" id="stop-response-btn" class="material-symbols-rounded">stop_circle</button>
+                        <button id="send-prompt-btn" class="material-symbols-rounded">arrow_upward</button>
+                    </div>
+
+                </form>
+                <button id="theme-toggle-btn" class="material-symbols-rounded">light_mode</button>
+                <button id="delete-chats-btn" class="material-symbols-rounded">delete</button>
+            </div>
+        <p class="disclaimer-text">Alchemy can make mistakes, so double-check it.</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
