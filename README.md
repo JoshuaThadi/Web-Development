@@ -106,9 +106,11 @@ Alchemy AI is a powerful and interactive AI platform where users can prompt any 
 
 ⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
 
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Alchemy" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
 <a href="https://alchemy-ai-v1.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Netlify-Alchemy_AI-555555?style=for-the-badge&logo=netlify&logoColor=white" alt="Alchemy AI Platform"></a>
-
 
 
 ---
