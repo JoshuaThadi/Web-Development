@@ -1,9 +1,9 @@
 var youtube = "https://www.youtube.com/";
 var twitter = "https://www.x.com/";
-var password = "whatdidyouthinkitwasbruh!";
-var linkedIn = "https://www.linkedin.com/in/joshuathadi/";
-var github = "https://github.com/JoshuaThadi/";
-var gmail = "mailto:thadijoshua@gmail.com";
+var password = "whatsoever";
+var linkedIn = "https://www.linkedin.com/in/";
+var github = "https://github.com/";
+var gmail = "mailto:you@gmail.com";
 var instagram = "https://www.instagram.com"; 
 
 whois = [
@@ -26,8 +26,8 @@ socials = [
     "<br>",
     ' ▶ YouTube:                            - <a href="' + youtube + '" target="_blank">youtube/@MasterJudah~/.{404_not_found}</a>',
     ' 𝕏 Twitter:                            - <a href="' + twitter + '" target="_blank">twitter/@MasterJudah~/.{404_not_found}</a>',
-    ' ✉︎ GitHub:                             - <a href="' + github + '" target="_blank">github/joshuathadi</a>',
-    ' In LinkedIn:                           - <a href="' + linkedIn + '" target="_blank">linkedin/JoshuaThadi</a>',
+    ' ✉︎ GitHub:                             - <a href="' + github + '" target="_blank">github/</a>',
+    ' In LinkedIn:                           - <a href="' + linkedIn + '" target="_blank">linkedin/</a>',
     '[◉°] Instagram:                       - <a href="' + instagram + '" target="_blank">instagram/@MasterJudah~/.{404_not_found}</a>',
     "<br>"
 ];
@@ -45,10 +45,10 @@ projects = [
     "<a style='color: #ffffff'>Most of my github projects are hobby based the real-time heavy projects are confidential.</a>",
     "To proceed, type the command <span class='command'>socials</span>.",
     "<br>",
-    ' ✆ Whatsapp-Automation:                            - <a href="https://github.com/JoshuaThadi/Automations">https://github.com/JoshuaThadi/Automations</a>',
-    ' 𓃬 YehoArc:                                        - <a href="https://github.com/JoshuaThadi/Microsoft-.Net">https://github.com/JoshuaThadi/Microsoft-.Net</a>',
-    ' G Web-Development:                                - <a href="https://github.com/JoshuaThadi/Web-Development">https://github.com/JoshuaThadi/Web-Development</a>',
-    ' ⌨ Artifical Intelligence:                         - <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">https://github.com/JoshuaThadi/Artificial-Intelligence</a>',
+    ' ✆ Whatsapp-Automation:                            - <a href="https://github.com/Automations">https://github.com/JoshuaThadi/Automations</a>',
+    ' 𓃬 YehoArc:                                        - <a href="https://github.com/Microsoft-.Net">https://github.com/JoshuaThadi/Microsoft-.Net</a>',
+    ' G Web-Development:                                - <a href="https://github.com/Web-Development">https://github.com/JoshuaThadi/Web-Development</a>',
+    ' ⌨ Artifical Intelligence:                         - <a href="https://github.com/Artificial-Intelligence">https://github.com/JoshuaThadi/Artificial-Intelligence</a>',
     "<br>"
 ];
 
