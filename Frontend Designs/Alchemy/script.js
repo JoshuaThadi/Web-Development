@@ -7,8 +7,8 @@ const fileUploadWrapper = promptForm.querySelector(".file-upload-wrapper");
 const themeToggle = document.querySelector("#theme-toggle-btn");
 
 // API setup
-const API_KEY = "AIzaSyC7McdrJZzpRJyyXtqNIsqSVhEEHDxuE38";
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
+const API_KEY = "your api key";
+const API_URL = `your api url`;
 
 let typingInterval, controller;
 const userData = { message: "", file: {} };
