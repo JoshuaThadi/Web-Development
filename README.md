@@ -106,7 +106,7 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 
 <img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%20(67).png">
 
-Alchemy AI is a powerful and interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
+Developers Ai is a interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
 
 ⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
 
