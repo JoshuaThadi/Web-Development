@@ -91,7 +91,7 @@ This .NET Core MVC full-stack application is a minimalistic, modern website inte
 
 <div align="left">
 
-<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-13%20223428.png" alt="masterjudah-bashfolio" />
+<img align="center" width="100%" src="assets/Screenshot 2025-05-14 132324.png" alt="masterjudah-bashfolio" />
 <p>
 A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics the look and feel of a real command-line interface, offering an interactive and responsive user experience. Perfect for portfolios, easter eggs, or fun web experiments. Fully customizable and lightweight.
 </p>
