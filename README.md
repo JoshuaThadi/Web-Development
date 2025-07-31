@@ -146,18 +146,6 @@ adjusting seamlessly for mobile and desktop screens. The signup form is containe
 
 ---
 
- <img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222828.png" alt="Coffy 3D Preview 3" width="100%" />
-<p>
-This repository showcases my journey of learning HTML and CSS through hands-on practice. The Curriculum Website is a collection of all the essential concepts I’ve learned — from building responsive layouts to styling interactive components. Each section reflects the practical skills I've gained while exploring web design fundamentals.
-</p>
-
-
-<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Html%20%26%20Css" target="_blank">
-  <img width="143px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
-<a href="https://curriculum-masterjudah.netlify.app/" target="_blank">
-     <img width="227px" src="https://img.shields.io/badge/Html/Css-Curriculum-%23D43F51?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="GitHub Badge"></a>
-
----
 
 
 <img src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222856.png" alt="Coffy 3D Preview 4" width="100%" />
