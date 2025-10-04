@@ -89,6 +89,22 @@ This .NET Core MVC full-stack application is a minimalistic, modern website inte
 
 ---
 
+<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/noteappui.png">
+
+<div align="left">
+  
+This web application allows you to create, organize, and manage your notes efficiently. You can add detailed notes for in-depth information or quick notes for instant reminders and ideas. The app is designed to keep all your notes accessible, searchable, and easy to update, helping you stay organized and productive.
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Notes%20Web%20App" target="_blank">
+  <img src="https://img.shields.io/badge/source%20Code-grey?style=for-the-badge&logo=github&logoColor=white" alt="Repository Badge"></a>
+
+<a href="https://noteappui.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/netlify-noteappui-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"></a>
+
+</div>
+
+---
+
 <div align="left">
 
 <img align="center" width="100%" src="assets/Screenshot 2025-05-14 132324.png" alt="masterjudah-bashfolio" />
