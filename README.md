@@ -20,7 +20,7 @@
 </div>
 
 <div align="left">
-<h3 align="center">🌟 Web Development 
+<h2 align="center">🌟 Web Development </h2>
 <div align="center">
 <a href="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/web-dev-roadmap.md">
   <img  align="center"  src="https://img.shields.io/badge/Web%20Dev%20Roadmap-grey?style=for-the-badge&logo=github" alt="Web Dev Roadmap"></a>
@@ -30,7 +30,6 @@
 
   
 </div>
-</h3>
 <br>
 
 <!--<h4 align="center">🧲 Connect with me:</h4>
