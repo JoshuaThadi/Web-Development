@@ -71,6 +71,21 @@
 <img src="https://img.shields.io/badge/Bootstrap-%237D6E99?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 -->
 
+
+---
+  
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
+
+<p>
+Proview Blog is a simple, old-school Information Technology blog built with basic Bootstrap. While its design may feel dated, it still offers useful insights, tutorials, and updates on tech, software development, and digital trends.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Proview" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://proviewblog.netlify.app/" target="_blank">
+    <img width="240px" src="https://img.shields.io/badge/Bootstrap_v4.2-Proview-%235E81AC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="PROVIEW"></a>
+
+
 ---
 
 <img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/raw/main/assests/yeho.net.png">
@@ -120,9 +135,9 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%20(67).png">
+<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/dark-alchemy.png">
 
-Developers Ai is a interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
+Alchemy Ai is a interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
 
 ⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
 
@@ -132,19 +147,6 @@ Developers Ai is a interactive AI platform where users can prompt any question a
 <a href="https://alchemy-ai-v1.netlify.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Netlify-Alchemy_AI-555555?style=for-the-badge&logo=netlify&logoColor=white" alt="Alchemy AI Platform"></a>
 
-
----
-  
-<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
-
-<p>
-Proview Blog is a simple, old-school Information Technology blog built with basic Bootstrap. While its design may feel dated, it still offers useful insights, tutorials, and updates on tech, software development, and digital trends.
-</p>
-
-<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Proview" target="_blank">
-  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
-<a href="https://proviewblog.netlify.app/" target="_blank">
-    <img width="240px" src="https://img.shields.io/badge/Bootstrap_v4.2-Proview-%235E81AC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="PROVIEW"></a>
 
 ---
 
