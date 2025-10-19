@@ -73,6 +73,8 @@
 
 
 ---
+
+<div align="left">
   
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
 
@@ -89,8 +91,6 @@ Proview Blog is a simple, old-school Information Technology blog built with basi
 ---
 
 <img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/raw/main/assests/yeho.net.png">
-
-<div align="left">
   
 This .NET Core MVC full-stack application is a minimalistic, modern website integrated with a robust Customer Management System. Built using HTML, CSS, and MVC architecture, it ensures clean UI, efficient performance, and easy customer data handling. Ideal for managing clients in a sleek, responsive web environment.
 
