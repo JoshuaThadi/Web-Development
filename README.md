@@ -102,21 +102,23 @@ This .NET Core MVC full-stack application is a minimalistic, modern website inte
 
 </div>
 
+
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/noteappui.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/dark-alchemy.png">
 
 <div align="left">
-  
-This web application allows you to create, organize, and manage your notes efficiently. You can add detailed notes for in-depth information or quick notes for instant reminders and ideas. The app is designed to keep all your notes accessible, searchable, and easy to update, helping you stay organized and productive.
 
-<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Notes%20Web%20App" target="_blank">
-  <img src="https://img.shields.io/badge/source%20Code-grey?style=for-the-badge&logo=github&logoColor=white" alt="Repository Badge"></a>
+Alchemy Ai is a interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
 
-<a href="https://noteappui.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/netlify-noteappui-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"></a>
+⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
 
-</div>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Alchemy" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://alchemy-ai-v1.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Netlify-Alchemy_AI-555555?style=for-the-badge&logo=netlify&logoColor=white" alt="Alchemy AI Platform"></a>
+
 
 ---
 
@@ -132,21 +134,21 @@ A web-based terminal simulator built with HTML, CSS, and JavaScript. It mimics t
 <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Netlify-Bashfolio-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Bashfolio on Netlify"></a>
 
-
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/dark-alchemy.png">
-
-Alchemy Ai is a interactive AI platform where users can prompt any question and receive intelligent responses using their own external API key. It supports uploading images and files, allowing users to ask context-aware questions based on visual or document data. Designed for versatility, Alchemy AI bridges human curiosity with advanced AI capabilities across text and media inputs.
-
-⚠️ **Note:** If the application is not responding, the API key might be expired or invalid.
+<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/noteappui.png">
 
 
-<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Alchemy" target="_blank">
-  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
-<a href="https://alchemy-ai-v1.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Netlify-Alchemy_AI-555555?style=for-the-badge&logo=netlify&logoColor=white" alt="Alchemy AI Platform"></a>
+  
+This web application allows you to create, organize, and manage your notes efficiently. You can add detailed notes for in-depth information or quick notes for instant reminders and ideas. The app is designed to keep all your notes accessible, searchable, and easy to update, helping you stay organized and productive.
 
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/Notes%20Web%20App" target="_blank">
+  <img src="https://img.shields.io/badge/source%20Code-grey?style=for-the-badge&logo=github&logoColor=white" alt="Repository Badge"></a>
+
+<a href="https://noteappui.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/netlify-noteappui-grey?style=for-the-badge&logo=netlify&logoColor=white" alt="Website Badge"></a>
+
+</div>
 
 ---
 
