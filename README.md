@@ -89,7 +89,7 @@ Proview Blog is a simple, old-school Information Technology blog built with basi
 
 ---
 
-<img width="100%" src="https://github.com/JoshuaThadi/Microsoft.Net/raw/main/assests/yeho.net.png">
+<img width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/yeho.net.png">
   
 This .NET Core MVC full-stack application is a minimalistic, modern website integrated with a robust Customer Management System. Built using HTML, CSS, and MVC architecture, it ensures clean UI, efficient performance, and easy customer data handling. Ideal for managing clients in a sleek, responsive web environment.
 
