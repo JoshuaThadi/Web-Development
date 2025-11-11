@@ -75,6 +75,23 @@
 
 <div align="left">
   
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/rejouice.png" />
+
+<p>
+The Rejouice Website Clone is a creative web design project that replicates the look and feel of the original Rejouice agency website. Built using HTML, CSS, and JavaScript, along with powerful animation libraries like GSAP and Locomotive Scroll, this project demonstrates the use of motion design, scroll-based effects, and responsive layouts.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/rejouice" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://rejouici.netlify.app/" target="_blank">
+  <img width="115px" src="https://img.shields.io/badge/rejouice-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
+
+
+---
+
+<div align="left">
+  
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
 
 <p>
