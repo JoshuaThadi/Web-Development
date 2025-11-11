@@ -75,7 +75,7 @@
 
 <div align="left">
   
-<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/rejouice.png" />
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/REJOUICE%20(2).png" />
 
 <p>
 The Rejouice Website Clone is a creative web design project that replicates the look and feel of the original Rejouice agency website. Built using HTML, CSS, and JavaScript, along with powerful animation libraries like GSAP and Locomotive Scroll, this project demonstrates the use of motion design, scroll-based effects, and responsive layouts.
