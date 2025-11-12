@@ -87,6 +87,21 @@ The Rejouice Website Clone is a creative web design project that replicates the 
   <img width="115px" src="https://img.shields.io/badge/rejouice-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
 </a>
 
+---
+
+<div align="left">
+  
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/hasely.png" />
+
+<p>
+Hasely is a modern, minimalistic landing page built with Vite.js, designed for speed and performance. Its sleek, clean UI emphasizes simplicity while providing an elegant, user-friendly experience. The interface focuses on smooth interactions, subtle animations, and a responsive layout, making it ideal for showcasing products, services, or personal projects with style and efficiency.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/hasely-main" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://hasely.netlify.app/" target="_blank">
+  <img width="102px" src="https://img.shields.io/badge/hasely-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
 
 ---
 
