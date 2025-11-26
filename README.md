@@ -89,6 +89,34 @@ The Rejouice Website Clone is a creative web design project that replicates the 
 
 ---
 
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/CodeRaiderLand.png" />
+
+<p>
+The CodeRaider landing page embraces a bold, futuristic, and ultra-clean aesthetic, reflecting the power and precision of the platform. Its modern layout uses crisp typography, balanced spacing, and a dark, high-contrast palette that gives the interface a sleek developer-centric feel. Smooth transitions, glowing accents, and subtle depth effects create a dynamic visual experience without overwhelming the user.
+</p>
+
+<a href="https://github.com/Jostar-Foundation/CodeRaider" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Repository-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://code-raider.netlify.app/" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/CodeRaider-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
+
+---
+
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/byteland.png" />
+
+<p>
+The ByteBrief landing page features a modern, sleek, and minimal design crafted for clarity and focus. With clean typography, spacious layout, and a calm visual hierarchy, every element is designed to feel intuitive and lightweight. The interface uses subtle gradients, soft shadows, and balanced contrast, giving the page a polished, contemporary feel while remaining distraction-free.
+</p>
+
+<a href="https://github.com/Jostar-Foundation/ByteBrief" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Repository-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://bytebriefs.netlify.app/" target="_blank">
+  <img width="130px" src="https://img.shields.io/badge/bytebrief-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
+
+---
+
 <div align="left">
   
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/hasely.png" />
