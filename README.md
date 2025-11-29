@@ -133,6 +133,20 @@ The <b>ByteBrief</b> landing page features a modern, sleek, and minimal design c
 
 ---
 
+<img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/mj-dev.png" />
+<h3> Webfolio</h3>
+<p>
+The <b>Vite.js Webfolio</b> is a personal portfolio website project built using the modern frontend build tool Vite to showcase my work and skills. This project leverages the speed and efficiency of Vite, along with core web technologies like HTML, CSS, and JavaScript, to deliver a fast, responsive, and aesthetically pleasing user experience. It highlights best practices in frontend development, including efficient asset bundling, quick development server startup, and modular design.
+</p>
+
+<a href="https://github.com/JoshuaThadi/Web-Development/tree/main/Frontend%20Designs/MasterJudah-devfolio" target="_blank">
+  <img width="140px" src="https://img.shields.io/badge/Source%20Code-494848?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+<a href="https://masterjudah.netlify.app/" target="_blank">
+  <img width="145px" src="https://img.shields.io/badge/MasterJudah-494848?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo Badge">
+</a>
+
+---
+
 <div align="left">
   
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/Screenshot%202025-05-12%20222654.png" alt="Coffy 3D Preview" />
