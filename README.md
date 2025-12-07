@@ -134,7 +134,7 @@ The <b>ByteBrief</b> landing page features a modern, sleek, and minimal design c
 ---
 
 <img align="center" width="100%" src="https://github.com/JoshuaThadi/Web-Development/blob/main/assets/mj-dev.png" />
-<h3> Webfolio</h3>
+<h3> Devfolio</h3>
 <p>
 The <b>Vite.js Webfolio</b> is a personal portfolio website project built using the modern frontend build tool Vite to showcase my work and skills. This project leverages the speed and efficiency of Vite, along with core web technologies like HTML, CSS, and JavaScript, to deliver a fast, responsive, and aesthetically pleasing user experience. It highlights best practices in frontend development, including efficient asset bundling, quick development server startup, and modular design.
 </p>
